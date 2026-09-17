@@ -1,0 +1,13 @@
+{
+    "brute_force_threshold": 5,
+    "brute_force_window_minutes": 2,
+    "sudo_threshold": 3,
+
+    "odd_hour_start": 22,
+    "odd_hour_end": 6,
+
+    "brute_force_weight": 50,
+    "sudo_weight": 40,
+    "odd_hour_weight": 30,
+    "unusual_ip_weight": 20
+}

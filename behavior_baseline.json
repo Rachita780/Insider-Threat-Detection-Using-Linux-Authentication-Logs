@@ -1,0 +1,3162 @@
+{
+    "user010": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.10"
+        ],
+        "successful_login_count": 20
+    },
+    "user054": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.54"
+        ],
+        "successful_login_count": 20
+    },
+    "user023": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.23"
+        ],
+        "successful_login_count": 20
+    },
+    "user076": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.76"
+        ],
+        "successful_login_count": 20
+    },
+    "user013": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.13"
+        ],
+        "successful_login_count": 20
+    },
+    "user074": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.74"
+        ],
+        "successful_login_count": 20
+    },
+    "user041": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.41"
+        ],
+        "successful_login_count": 20
+    },
+    "user003": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.3"
+        ],
+        "successful_login_count": 20
+    },
+    "user084": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.84"
+        ],
+        "successful_login_count": 20
+    },
+    "user068": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.68"
+        ],
+        "successful_login_count": 20
+    },
+    "user069": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.69"
+        ],
+        "successful_login_count": 20
+    },
+    "user026": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.26"
+        ],
+        "successful_login_count": 20
+    },
+    "user005": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.5"
+        ],
+        "successful_login_count": 20
+    },
+    "user012": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.12"
+        ],
+        "successful_login_count": 20
+    },
+    "user055": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.55"
+        ],
+        "successful_login_count": 20
+    },
+    "user080": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.80"
+        ],
+        "successful_login_count": 20
+    },
+    "user059": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.59"
+        ],
+        "successful_login_count": 20
+    },
+    "user067": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.67"
+        ],
+        "successful_login_count": 20
+    },
+    "user072": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.72"
+        ],
+        "successful_login_count": 20
+    },
+    "user064": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.64"
+        ],
+        "successful_login_count": 20
+    },
+    "user008": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.8"
+        ],
+        "successful_login_count": 20
+    },
+    "user085": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.85"
+        ],
+        "successful_login_count": 20
+    },
+    "user037": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.37"
+        ],
+        "successful_login_count": 20
+    },
+    "user086": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.86"
+        ],
+        "successful_login_count": 20
+    },
+    "user056": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.56"
+        ],
+        "successful_login_count": 20
+    },
+    "user078": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.78"
+        ],
+        "successful_login_count": 20
+    },
+    "user077": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.77"
+        ],
+        "successful_login_count": 20
+    },
+    "user015": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.15"
+        ],
+        "successful_login_count": 20
+    },
+    "user034": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.34"
+        ],
+        "successful_login_count": 20
+    },
+    "user021": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.21"
+        ],
+        "successful_login_count": 20
+    },
+    "user071": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.71"
+        ],
+        "successful_login_count": 20
+    },
+    "user088": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.88"
+        ],
+        "successful_login_count": 20
+    },
+    "user047": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.47"
+        ],
+        "successful_login_count": 20
+    },
+    "user035": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.35"
+        ],
+        "successful_login_count": 20
+    },
+    "user009": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.9"
+        ],
+        "successful_login_count": 20
+    },
+    "user006": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.6"
+        ],
+        "successful_login_count": 20
+    },
+    "user051": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.51"
+        ],
+        "successful_login_count": 20
+    },
+    "user061": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.61"
+        ],
+        "successful_login_count": 20
+    },
+    "user062": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.62"
+        ],
+        "successful_login_count": 20
+    },
+    "user079": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.79"
+        ],
+        "successful_login_count": 20
+    },
+    "user020": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.20"
+        ],
+        "successful_login_count": 20
+    },
+    "user018": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.18"
+        ],
+        "successful_login_count": 20
+    },
+    "user022": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.22"
+        ],
+        "successful_login_count": 20
+    },
+    "user066": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.66"
+        ],
+        "successful_login_count": 20
+    },
+    "user043": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.43"
+        ],
+        "successful_login_count": 20
+    },
+    "user025": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.25"
+        ],
+        "successful_login_count": 20
+    },
+    "user017": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.17"
+        ],
+        "successful_login_count": 20
+    },
+    "user083": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.83"
+        ],
+        "successful_login_count": 20
+    },
+    "user065": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.65"
+        ],
+        "successful_login_count": 20
+    },
+    "user029": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.29"
+        ],
+        "successful_login_count": 20
+    },
+    "user052": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.52"
+        ],
+        "successful_login_count": 20
+    },
+    "user058": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.58"
+        ],
+        "successful_login_count": 20
+    },
+    "user090": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.90"
+        ],
+        "successful_login_count": 20
+    },
+    "user030": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.30"
+        ],
+        "successful_login_count": 20
+    },
+    "user075": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.75"
+        ],
+        "successful_login_count": 20
+    },
+    "user081": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.81"
+        ],
+        "successful_login_count": 20
+    },
+    "user082": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.82"
+        ],
+        "successful_login_count": 20
+    },
+    "user045": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.45"
+        ],
+        "successful_login_count": 20
+    },
+    "user048": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.48"
+        ],
+        "successful_login_count": 20
+    },
+    "user028": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.28"
+        ],
+        "successful_login_count": 20
+    },
+    "user049": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.49"
+        ],
+        "successful_login_count": 20
+    },
+    "user038": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.38"
+        ],
+        "successful_login_count": 20
+    },
+    "user053": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.53"
+        ],
+        "successful_login_count": 20
+    },
+    "user011": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.11"
+        ],
+        "successful_login_count": 20
+    },
+    "user019": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.19"
+        ],
+        "successful_login_count": 20
+    },
+    "user016": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.16"
+        ],
+        "successful_login_count": 20
+    },
+    "user089": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.89"
+        ],
+        "successful_login_count": 20
+    },
+    "user057": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.57"
+        ],
+        "successful_login_count": 20
+    },
+    "user046": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.46"
+        ],
+        "successful_login_count": 20
+    },
+    "user070": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.70"
+        ],
+        "successful_login_count": 20
+    },
+    "user063": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.63"
+        ],
+        "successful_login_count": 20
+    },
+    "user024": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.24"
+        ],
+        "successful_login_count": 20
+    },
+    "user073": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.73"
+        ],
+        "successful_login_count": 20
+    },
+    "user004": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.4"
+        ],
+        "successful_login_count": 20
+    },
+    "user087": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.87"
+        ],
+        "successful_login_count": 20
+    },
+    "user031": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.31"
+        ],
+        "successful_login_count": 20
+    },
+    "user036": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.36"
+        ],
+        "successful_login_count": 20
+    },
+    "user044": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.44"
+        ],
+        "successful_login_count": 20
+    },
+    "user027": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.27"
+        ],
+        "successful_login_count": 20
+    },
+    "user001": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.1"
+        ],
+        "successful_login_count": 20
+    },
+    "user033": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.33"
+        ],
+        "successful_login_count": 20
+    },
+    "user040": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.40"
+        ],
+        "successful_login_count": 20
+    },
+    "user039": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.39"
+        ],
+        "successful_login_count": 20
+    },
+    "user014": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.14"
+        ],
+        "successful_login_count": 20
+    },
+    "user060": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.60"
+        ],
+        "successful_login_count": 20
+    },
+    "user050": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.50"
+        ],
+        "successful_login_count": 20
+    },
+    "user032": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.32"
+        ],
+        "successful_login_count": 20
+    },
+    "user007": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.7"
+        ],
+        "successful_login_count": 20
+    },
+    "user042": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.42"
+        ],
+        "successful_login_count": 20
+    },
+    "user002": {
+        "observed_login_hours": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "allowed_login_hours": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "known_ips": [
+            "10.0.0.2"
+        ],
+        "successful_login_count": 20
+    },
+    "user098": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.98"
+        ],
+        "successful_login_count": 20
+    },
+    "user094": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.94"
+        ],
+        "successful_login_count": 20
+    },
+    "user092": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.92"
+        ],
+        "successful_login_count": 20
+    },
+    "user093": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.93"
+        ],
+        "successful_login_count": 20
+    },
+    "user096": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.96"
+        ],
+        "successful_login_count": 20
+    },
+    "user091": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.91"
+        ],
+        "successful_login_count": 20
+    },
+    "user100": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.100"
+        ],
+        "successful_login_count": 20
+    },
+    "user099": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.99"
+        ],
+        "successful_login_count": 20
+    },
+    "user097": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.97"
+        ],
+        "successful_login_count": 20
+    },
+    "user095": {
+        "observed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23
+        ],
+        "allowed_login_hours": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            20,
+            21,
+            22,
+            23
+        ],
+        "known_ips": [
+            "10.0.0.95"
+        ],
+        "successful_login_count": 20
+    }
+}

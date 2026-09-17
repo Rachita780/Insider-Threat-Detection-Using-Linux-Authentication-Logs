@@ -1,0 +1,21 @@
+{
+    "alice": {
+        "work_start": 8,
+        "work_end": 18,
+        "trusted_ips": [
+            "192.168.1.25"
+        ]
+    },
+
+    "user": {
+        "work_start": 6,
+        "work_end": 22,
+        "trusted_ips": []
+    },
+
+    "nightshift": {
+        "work_start": 20,
+        "work_end": 6,
+        "trusted_ips": []
+    }
+}
