@@ -1,0 +1,14 @@
+{
+    "alice": {
+        "work_start": 8,
+        "work_end": 18
+    },
+    "user": {
+        "work_start": 6,
+        "work_end": 22
+    },
+    "nightshift": {
+        "work_start": 20,
+        "work_end": 6
+    }
+}

@@ -1,0 +1,39 @@
+Manual Risk Score Validation Notes
+-----------------------------------
+
+User: alice
+
+Odd-hour login count = 1
+Weight per odd-hour login = 30
+Odd-hour score = 1 × 30 = 30
+
+Brute-force count = 0
+Sudo count = 0
+
+Total Weighted Score = 30
+
+------------------------------------------------
+
+User: invalid
+
+Failed login count = 5
+Weight per failed login = 10
+Brute-force score = 5 × 10 = 50
+
+Sudo count = 0
+Odd-hour count = 0
+
+Total Weighted Score = 50
+
+------------------------------------------------
+
+User: user
+
+Sudo count = 3
+Weight per sudo usage = 13.33
+Sudo score = 3 × 13.33 ≈ 40
+
+Brute-force count = 0
+Odd-hour count = 0
+
+Total Weighted Score = 40
