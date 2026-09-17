@@ -1,0 +1,40 @@
+Sep 08 08:05:12 kali sshd[2101]: Accepted password for bob from 192.168.1.21 port 50211 ssh2
+Sep 08 08:06:03 kali sshd[2102]: pam_unix(sshd:session): session opened for user bob by (uid=0)
+Sep 08 08:44:55 kali sshd[2103]: Connection closed by 192.168.1.21 port 50211
+Sep 08 09:10:22 kali sshd[2110]: Accepted password for carol from 192.168.1.22 port 50310 ssh2
+Sep 08 09:15:00 kali sudo[2115]: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 08 09:20:41 kali sshd[2118]: Received disconnect from 192.168.1.22 port 50310:11: disconnected by user
+Sep 08 10:02:11 kali sshd[2120]: Failed password for dave from 192.168.1.23 port 50401 ssh2
+Sep 08 11:17:36 kali sshd[2121]: Failed password for dave from 192.168.1.23 port 50455 ssh2
+Sep 08 13:45:09 kali sshd[2122]: Failed password for dave from 192.168.1.23 port 50501 ssh2
+Sep 08 14:05:15 kali sshd[2130]: Accepted password for emma from 192.168.1.24 port 50611 ssh2
+Sep 08 14:06:02 kali sshd[2131]: pam_unix(sshd:session): session opened for user emma by (uid=0)
+Sep 08 14:30:44 kali sshd[2132]: pam_unix(sshd:session): session closed for user emma
+Sep 08 15:01:03 kali sshd[2140]: Failed password for eve from 192.168.1.25 port 50701 ssh2
+Sep 08 16:10:19 kali sshd[2141]: Failed password for eve from 192.168.1.25 port 50733 ssh2
+Sep 08 17:22:44 kali sshd[2142]: Failed password for eve from 192.168.1.25 port 50771 ssh2
+Sep 08 18:34:08 kali sshd[2143]: Failed password for eve from 192.168.1.25 port 50820 ssh2
+Sep 08 19:48:51 kali sshd[2144]: Failed password for eve from 192.168.1.25 port 50888 ssh2
+Sep 08 20:15:29 kali sshd[2150]: Accepted password for frank from 192.168.1.26 port 50901 ssh2
+Sep 08 20:40:05 kali sshd[2151]: Connection closed by 192.168.1.26 port 50901
+Sep 08 21:05:17 kali sshd[2160]: Accepted password for helen from 192.168.1.27 port 51001 ssh2
+Sep 08 21:30:00 kali sudo[2161]: bob : TTY=pts/1 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/systemctl status ssh
+Sep 08 22:40:16 kali sshd[2170]: Failed password for john from 10.10.10.50 port 51101 ssh2
+Sep 08 22:40:27 kali sshd[2171]: Failed password for john from 10.10.10.50 port 51102 ssh2
+Sep 08 22:40:38 kali sshd[2172]: Failed password for john from 10.10.10.50 port 51103 ssh2
+Sep 08 22:40:49 kali sshd[2173]: Failed password for john from 10.10.10.50 port 51104 ssh2
+Sep 08 22:41:01 kali sshd[2174]: Failed password for john from 10.10.10.50 port 51105 ssh2
+Sep 08 22:41:20 kali sshd[2175]: Connection closed by authenticating user john 10.10.10.50 port 51105 [preauth]
+Sep 08 23:30:12 kali sshd[2180]: Accepted password for nightshift from 192.168.1.30 port 51201 ssh2
+Sep 08 23:31:08 kali sshd[2181]: pam_unix(sshd:session): session opened for user nightshift by (uid=0)
+Sep 08 23:45:10 kali sshd[2190]: Accepted password for alice from 192.168.1.20 port 51301 ssh2
+Sep 08 23:46:04 kali sshd[2191]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Sep 08 23:50:00 kali sudo[2200]: user : TTY=pts/2 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Sep 08 23:50:20 kali sudo[2201]: user : TTY=pts/2 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/tail /var/log/auth.log
+Sep 08 23:50:40 kali sudo[2202]: user : TTY=pts/2 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/systemctl restart ssh
+Sep 09 00:12:14 kali sshd[2210]: Accepted password for george from 172.16.0.45 port 51401 ssh2
+Sep 09 00:13:02 kali sshd[2211]: pam_unix(sshd:session): session opened for user george by (uid=0)
+Sep 09 00:20:11 kali sshd[2212]: Disconnected from user george 172.16.0.45 port 51401
+Sep 09 01:02:33 kali sshd[2220]: Invalid user oracle from 203.0.113.77 port 51501
+Sep 09 01:02:35 kali sshd[2221]: Connection closed by invalid user oracle 203.0.113.77 port 51501 [preauth]
+Sep 09 06:30:00 kali sshd[2230]: Accepted password for irene from 192.168.1.31 port 51601 ssh2
